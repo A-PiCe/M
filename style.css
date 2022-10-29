@@ -1,0 +1,50 @@
+body, h1 {
+    color:rgb(93, 1, 180)
+}
+p.texto {
+    color:rgb(70, 0, 97)
+}
+body#titulo, table, tr, th {
+    color: rgb(61, 0, 48) 
+}
+h1.color {
+    color: rgba(5, 57, 8, 0.766);  font-style: solid ; font-size: 55px;
+}
+.color {
+ border-radius: 10%; 
+ border-color: rgba(33, 125, 0, 0.389);
+ border-spacing: 3px;
+ border-top-width: 0.2cm;
+ border-bottom-width: 0.2cm;
+ border-bottom-color: rgba(108, 4, 149, 0.471);
+
+ border-style: outset;
+ font-size: 70px;
+ font-style:inherit;
+ font-display:unset∫
+}
+text.form {
+    font-size: 15px
+}
+
+
+.txtocolor
+body h3, div {
+    color:rgb(0, 134, 134)
+}
+.color {
+    color: rgba(183, 70, 0, 0.602);
+}
+* {
+  color:black;  font-style: oblique; font-size: 24px; font-feature-settings: "abvs"; font-weight: bolder;
+}
+/*esto es un quilombo*/
+#fondo {
+    background-color: rgba(88, 0, 170, 0.162);
+    background_size;
+    opacity: (0.4);
+    justify-content: center∫;
+}
+#fondo2 {
+    background-color: rgba(0, 97, 39, 0.148);
+}
